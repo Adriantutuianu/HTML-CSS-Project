@@ -1,3 +1,6 @@
 body {
   background-color: rebeccapurple;
 }
+p {
+  font-family: "Poppins", sans-serif;
+}
