@@ -65,6 +65,7 @@ main {
     rgba(255, 255, 255, 0.3)
   );
   border-radius: 2rem;
+  padding: 2rem;
 }
 .link {
   display: flex;
@@ -73,6 +74,14 @@ main {
   align-items: center;
 }
 
+.link h2 {
+  padding: 0rem 2rem;
+}
+
 .games {
   flex: 2;
+}
+
+.pro {
+  background: linear-gradient(to right top, #65dfc9, #6cdbeb);
 }
