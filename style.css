@@ -86,6 +86,7 @@ main {
     rgba(255, 255, 255, 0.3)
   );
   border-radius: 2rem;
+  padding: 1rem;
 }
 .link {
   display: flex;
