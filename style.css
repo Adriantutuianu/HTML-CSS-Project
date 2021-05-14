@@ -86,7 +86,6 @@ main {
     rgba(255, 255, 255, 0.3)
   );
   border-radius: 2rem;
-  padding: 2rem;
 }
 .link {
   display: flex;
@@ -108,6 +107,7 @@ main {
   border-radius: 2rem;
   color: white;
   position: relative;
+  padding: 1rem;
 }
 
 .pro img {
@@ -124,7 +124,7 @@ main {
 
 /*GAMES*/
 .status {
-  margin-bottom: 3rem;
+  margin-bottom: 0rem;
 }
 
 .status input {
@@ -140,13 +140,14 @@ main {
 }
 
 .games {
-  margin: 5rem;
+  margin: 1rem 2rem;
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
 }
 
 .card {
+  margin: 1rem 0rem;
   display: flex;
   background: linear-gradient(
     to left top,
@@ -173,4 +174,5 @@ main {
   height: 100%;
   background: rgb(236, 236, 236);
   position: absolute;
+  left: 60%;
 }
