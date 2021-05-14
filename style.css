@@ -145,3 +145,15 @@ main {
   flex-direction: column;
   justify-content: space-evenly;
 }
+
+.card {
+  display: flex;
+  background: linear-gradient(
+    to left top,
+    rgba(255, 255, 255, 1),
+    rgba(255, 255, 255, 0.8)
+  );
+  border-radius: 1rem;
+  margin: 2rem 0rem;
+  padding: 2rem;
+}
