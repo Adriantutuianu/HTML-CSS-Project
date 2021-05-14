@@ -167,6 +167,7 @@ main {
   height: 25%;
   border-radius: 1rem;
   position: relative;
+  overflow: hidden;
 }
 .progress::after {
   content: "";
