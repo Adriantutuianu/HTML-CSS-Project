@@ -88,6 +88,10 @@ main {
   border-radius: 2rem;
   padding: 1rem;
 }
+.dashboard .user img {
+  height: auto;
+  max-width: 120px;
+}
 .link {
   display: flex;
   margin: 2rem 0rem;
